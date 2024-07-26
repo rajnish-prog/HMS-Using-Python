@@ -1,0 +1,1 @@
+A simple GUI based Hospital Management Software made using PyQt which handles the basic CRUD operations of a hospital for both the roles of Admin and Client usage.
